@@ -1,0 +1,106 @@
+{
+    "reactjs" :[
+        {
+            "id" : 1, 
+            "title" : "Is JavaScript a language worth knowing?",
+            "description" :"Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.",
+            "content": "Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.,",
+            "img" : "",
+            "category" : "reactjs",
+            "by" : "Sau nguyen",
+            "time" : "00:00:00 - 1/26/2017"
+        },
+        {
+            "id" : 2, 
+            "title" : "Is AngularJS a language worth knowing?",
+            "description" :"Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.",
+            "content": "Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.,",
+            "img" : "",
+            "category" : "reactjs",
+            "by" : "Sau nguyen",
+            "time" : "00:00:00 - 1/26/2017"
+        }, 
+        {
+            "id" : 3, 
+            "title" : "Is ReactJS a language worth knowing?",
+            "description" :"Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.",
+            "content": "Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.,",
+            "img" : "",
+            "category" : "reactjs",
+            "by" : "Sau nguyen",
+            "time" : "00:00:00 - 1/26/2017"
+        }
+    ],
+    "angularjs" :[
+        {
+            "id" : 1, 
+            "title" : "Is JavaScript a language worth knowing?",
+            "description" :"Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.",
+            "content": "Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.,",
+            "img" : "",
+            "category" : "angularjs",
+            "by" : "Sau nguyen",
+            "time" : "00:00:00 - 1/26/2017"
+        },
+        {
+            "id" : 2, 
+            "title" : "Is AngularJS a language worth knowing?",
+            "description" :"Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.",
+            "content": "",
+            "img" : "",
+            "category" : "angularjs",
+            "by" : "Sau nguyen",
+            "time" : "00:00:00 - 1/26/2017"
+        }, 
+        {
+            "id" : 3, 
+            "title" : "Is ReactJS a language worth knowing?",
+            "description" :"Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.",
+            "content": "",
+            "img" : "",
+            "category" : "angularjs",
+            "by" : "Sau nguyen",
+            "time" : "00:00:00 - 1/26/2017"
+        }
+    ],
+    "javascript" :[
+        {
+            "id" : 1, 
+            "title" : "Is JavaScript a language worth knowing?",
+            "description" :"Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.",
+            "content": "",
+            "img" : "",
+            "category" : "javascript",
+            "by" : "Sau nguyen",
+            "time" : "00:00:00 - 1/26/2017"
+        },
+        {
+            "id" : 2, 
+            "title" : "Is AngularJS a language worth knowing?",
+            "description" :"Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.",
+            "content": "",
+            "img" : "",
+            "category" : "javascript",
+            "by" : "Sau nguyen",
+            "time" : "00:00:00 - 1/26/2017"
+        }, 
+        {
+            "id" : 3, 
+            "title" : "Is ReactJS a language worth knowing?",
+            "description" :"Not to be confused with Java, JavaScript allows you to build interactive websites. JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. Thus, You must learn JavaScript if you want to get into web development, and you must learn it well if you're planning on being a front-end developer or on using JavaScript for backend development.",
+            "content": "",
+            "img" : "",
+            "category" : "javascript",
+            "by" : "Sau nguyen",
+            "time" : "00:00:00 - 1/26/2017"
+        }
+    ],
+    "admins" : [
+        {
+            "id": 1, 
+            "acc" : "admin",
+            "pass": "admin",
+            "name" :"Sau nguyen"
+        }
+    ]
+}
