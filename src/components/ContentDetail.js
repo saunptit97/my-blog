@@ -17,7 +17,7 @@ class ContentItem extends React.Component{
                   {content.description}
                 </p>
                 <img src={port2} className="img-port" alt="Port 2"/>
-                <p>{content.content}</p>
+                <p className="pd-t-10">{content.content}</p>
                 <div className="comment">
                   <i className="fa fa-comment-o"></i> <span>16 comments</span>
                   <div className="share">
@@ -35,19 +35,19 @@ class ContentItem extends React.Component{
                   <p className="line"></p>
                   <div className="col-md-4 ">   
                     <div className="also-like-item">
-                      <img src={port2} className="img-item"/>
+                      <img src={port2} className="img-item" alt="post"/>
                       <h5 className="title-item">Title</h5>
                     </div>
                   </div>
                   <div className="col-md-4 ">   
                     <div className="also-like-item">
-                      <img src={port2} className="img-item"/>
+                      <img src={port2} className="img-item" alt="post"/>
                       <h5 className="title-item">Title</h5>
                     </div>
                   </div>
                   <div className="col-md-4 ">   
                     <div className="also-like-item">
-                      <img src={port2} className="img-item"/>
+                      <img src={port2} className="img-item" alt="post"/>
                       <h5 className="title-item">Title</h5>
                     </div>
                   </div>

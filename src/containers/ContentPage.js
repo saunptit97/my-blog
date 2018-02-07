@@ -26,7 +26,6 @@ class ContentPage extends Component{
     render(){
         var {match} = this.props;
         var {content} = this.state;
-        console.log(match.params);
         return(
             <div className="container m-t">
                 <div className="row">

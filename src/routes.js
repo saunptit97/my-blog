@@ -1,48 +1,23 @@
-import React from "react"
-import HomePage from "./containers/HomePage";
-import AboutPage from "./containers/AboutPage";
-import ContactPage from "./containers/ContactPage";
-import JavaScriptPage from "./containers/JavaScriptPage";
-import AngualarJsPage from "./containers/AngualarJsPage";
-import ReactJsPage from "./containers/ReactJsPage";
+import React from "react";
+import Login from "./admin/login";
+import Admin from "./admin/admin";
+import App from "./components/App";
 import NotFoundPage from "./containers/NotFoundPage";
-import ContentPage from "./containers/ContentPage";
-
 const routes =[
     {
         path : "/",
         exact : true,
-        main: () => <HomePage/>
+        main: () => <App/>
     },
     {
-        path: '/about',
-        exact : false,
-        main : () => <AboutPage />
-    },
-    {
-        path : '/contact',
-        exact : false,
-        main : () => <ContactPage/>
-    },
-    {
-        path: '/javascript',
+        path: '/login', 
         exact: false,
-        main: () => <JavaScriptPage/>
+        main:()=> <Login />
     },
     {
-        path: '/content/id=:id&&category=:category',
+        path:"/admin",
         exact: false,
-        main: ({match}) => <ContentPage match ={match}/>
-    },
-    {
-        path: '/angularjs',
-        exact: false,
-        main : () => <AngualarJsPage/>
-    },
-    {
-        path: '/reactjs',
-        exact : false,
-        main: () => <ReactJsPage/>
+        main: () => <Admin/>
     },
     {
         path: '',

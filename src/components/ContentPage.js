@@ -2,7 +2,7 @@ import React from "react";
 import port2 from "./../photos/port2.jpg";
 import callAPI from "./../util/callAPI";
 import {Link} from "react-router-dom";
-class ContentItem extends React.Component{
+class ContentPage extends React.Component{
 
     render(){
         var {content} = this.props;
@@ -28,4 +28,4 @@ class ContentItem extends React.Component{
         )
     }
 }
-export default ContentItem;
+export default ContentPage;

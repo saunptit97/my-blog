@@ -1,4 +1,3 @@
-import port2 from "./../photos/port2.jpg";
 import port1 from "./../photos/post1.jpg";
 import React from "react";
 

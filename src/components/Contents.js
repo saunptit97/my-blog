@@ -1,5 +1,4 @@
 import React from "react";
-import port2 from "./../photos/port2.jpg";
 import callAPI from "./../util/callAPI";
 import ContentItem from "./ContentItem";
 import {connect} from "react-redux";
